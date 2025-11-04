@@ -50,11 +50,11 @@ This project demonstrates the implementation of a Library Management System usin
 
 The following SQL queries were used to address specific questions:
 
-7. **Retrieve All Books in a Specific Category**:
-8. **Find Total Rental Income by Category**:
-9. **List Members Who Registered in the Last 180 Days**:
-10. **List Employees with Their Branch Manager's Name and their branch details**:
-11. **Create a Table of Books with Rental Price Above a Certain Threshold**:
+7. **Retrieve All Books in a Specific Category**
+8. **Find Total Rental Income by Category**
+9. **List Members Who Registered in the Last 180 Days**
+10. **List Employees with Their Branch Manager's Name and their branch details**
+11. **Create a Table of Books with Rental Price Above a Certain Threshold**
 12: **Retrieve the List of Books Not Yet Returned**
 
 ## Advanced SQL Operations
@@ -110,3 +110,4 @@ Description: Write a CTAS query to create a new table that lists each member and
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
